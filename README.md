@@ -1,3 +1,13 @@
+<p align="center">
+    <img src=doc/pic/EFIM.svg height=240>
+</p>
+
+<h4 align="center">
+Efficient Serving of LLMs for Infilling Tasks with Improved KV Cache Reuse
+</h4>
+
+---
+
 # Set up Environment
 
 We need conda to set up environment. Please install conda before executing the following instructions.
